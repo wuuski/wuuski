@@ -1,4 +1,4 @@
-## Hi there 👋
+##### idk what to put in a readme so here's some ascii art of my face for now : ) 
 ```
                  
                      -#=@@=   :.:.  .  ==*                    
